@@ -1,7 +1,7 @@
 {
     "name": "SwAeyrton/gitflow-exercise",
     "description": "Ejercicio Gitflow.",
-    "version": "0.0.0.1",
+    "version": "0.0.1.1",
     "type": "project",
     "require": {
         "php": ">=7.4"
