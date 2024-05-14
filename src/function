@@ -1,0 +1,14 @@
+<?php
+/**
+ * Saluda a una persona con su nombre.
+ *
+ * @param string $nombre El nombre de la persona.
+ * @return string Un saludo personalizado.
+ */
+function saludar($nombre) {
+    return "Hola, " . $nombre . "! Bienvenido a nuestro sitio.";
+}
+
+// Ejemplo de uso
+echo saludar("Pablito");
+?>

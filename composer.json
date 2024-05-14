@@ -1,0 +1,14 @@
+{
+    "name": "SwAeyrton/gitflow-exercise",
+    "description": "Ejercicio Gitflow.",
+    "version": "0.0.0.1",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "gitflow-exercise\\": "src/"
+        }
+    }
+}
